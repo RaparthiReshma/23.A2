@@ -1,0 +1,17 @@
+//= or !=//
+a=int(input("enter the value for a"))
+b=int(input("enter the value for b"))
+if a==b:
+    print("a and b are equal")
+if a!=b:
+    print("a and b are not equal")
+//OUTPUT-1//
+enter the value for a32
+enter the value for b32
+a and b are equal
+> 
+//OUTPUT-2//
+enter the value for a20
+enter the value for b1
+a and b are not equal
+> 
